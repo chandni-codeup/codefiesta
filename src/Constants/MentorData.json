@@ -1,0 +1,22 @@
+[{
+    "_id":"66ffc42d4435359d534a46fb",
+    "mentor": {
+      "name": "Cleo Berger",
+      "phone": "9185163555",
+      "picture": "https://img.freepik.com/free-psd/3d-illustration-person-with-sunglasses_23-2149436188.jpg?w=740&t=st=1728106020~exp=1728106620~hmac=6df6d11c17a8f28a4c435c039aa48c073c1b1b7c3c6c6c10afe5c623d951d75f"
+    },
+    "teams": [
+      {
+        "name": "Team-Bass",
+        "captainName": "Shubham Gupta", 
+        "members": ["Shubham Gupta", "Priyanka", "Himanshu"]
+      },
+      {
+        "name": "Team-Mendez",
+        "captainName": "Chandni Sodani", 
+        "members": ["Chandni Sodani", "Kushal", "Vinita"]
+      }
+    ]
+  }
+
+]
